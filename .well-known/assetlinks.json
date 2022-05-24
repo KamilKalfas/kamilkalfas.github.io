@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anycoin.anycoin",
+      "sha256_cert_fingerprints": [
+        "BC:A3:B3:48:53:A6:E8:1E:7F:FB:9D:B6:49:8F:34:18:9A:20:70:60:9F:15:32:0D:EE:11:AD:94:F1:5B:3E:42"
+      ]
+    }
+  }
+]
